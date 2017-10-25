@@ -1,0 +1,81 @@
+body {
+  background-color: #000000;
+  margin: 0;
+  height: 1000px; }
+
+.hero-image {
+  background-image: url(foto/10010.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: auto auto 50px;
+  z-index: 1;
+  width: 100%;
+  height: 50%; }
+
+.me {
+  max-width: 100%;
+  height: 100%;
+  float: right; }
+
+.row img {
+  border: 3px solid red;
+  margin-right: 50px;
+  margin-bottom: 50px;
+  width: 50%;
+  height: 50%; }
+
+p {
+  font-size: 15px;
+  border-radius: 15px;
+  float: right; }
+
+nav {
+  top: 0px;
+  width: 100%;
+  background-color: #ff0000; }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden; }
+
+li {
+  float: left;
+  padding: 10px; }
+
+li a {
+  display: block;
+  color: #000000;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-weight: bold; }
+
+li a:hover {
+  background-color: #ffffff;
+  border-radius: 15px; }
+
+.me {
+  width: 50%; }
+
+.text-box {
+  width: 30%;
+  color: #ffffff;
+  background-color: #ff0000;
+  font-size: 15px;
+  border-radius: 15px;
+  height: 500px;
+  padding: 10px;
+  margin: auto 50px; }
+
+.foot nav {
+  background-color: #ffffff;
+  color: #000000;
+  margin: 0; }
+
+.clear {
+  clear: both; }
+
+/*# sourceMappingURL=zad4.css.map */
